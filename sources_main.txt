@@ -1,0 +1,14 @@
+src/main/java/br/com/truco/Main.java
+src/main/java/br/com/truco/engine/RodadaEngine.java
+src/main/java/br/com/truco/engine/TrucoEngine.java
+src/main/java/br/com/truco/model/Baralho.java
+src/main/java/br/com/truco/model/Carta.java
+src/main/java/br/com/truco/model/Equipe.java
+src/main/java/br/com/truco/model/EstadoTruco.java
+src/main/java/br/com/truco/model/Jogador.java
+src/main/java/br/com/truco/model/Mao.java
+src/main/java/br/com/truco/model/Naipe.java
+src/main/java/br/com/truco/model/Partida.java
+src/main/java/br/com/truco/model/ResultadoRodada.java
+src/main/java/br/com/truco/service/DistribuidorService.java
+src/main/java/br/com/truco/service/PlacarService.java

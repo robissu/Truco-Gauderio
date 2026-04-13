@@ -124,4 +124,4 @@ public class Mao {
                + (encerrada ? ", vencedor=" + equipeQueGanhouMao : "")
                + "}";
     }
-}mvn
+}

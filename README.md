@@ -72,7 +72,7 @@ unzip truco-gaucho.zip
 cd truco-gaucho
 
 # Se clonou do Git:
-git clone <url-do-repo>
+git clone <https://github.com/robissu/Truco-Gauderio>
 cd truco-gaucho
 ```
 
@@ -85,7 +85,8 @@ mvn compile
 ### 3. Rodar a simulação no console
 
 ```bash
-mvn exec:java -Dexec.mainClass="br.com.truco.Main"
+chcp 65001
+mvn exec:java "-Dexec.mainClass=br.com.truco.Main"
 ```
 
 Ou gerar o JAR e executar:
